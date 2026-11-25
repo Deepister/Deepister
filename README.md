@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I’m Deepister 👋
 
-<!--
-**Deepister/Deepister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build apps, games, and agents with AI, and share how I made them.**
 
-Here are some ideas to get you started:
+If you found me through a video, this is where you can dig into the code behind the build. I’m interested in the whole process, from the first prototype to what happens when you actually try to use it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore my projects
+
+**[Deepistertalks Projects](https://github.com/Deepister/Deepistertalks-Projects)**  
+A collection of coding projects I’ve shared on Instagram. Start here if you’re looking for the code from an earlier video.
+
+## Find me on Instagram
+
+- **[@deepister.tech](https://www.instagram.com/deepister.tech/)** — tech, AI tools, and behind the scenes of my builds.
+- **[@hi.pryor](https://www.instagram.com/hi.pryor/)** — creative marketing, content, and campaign ideas.
