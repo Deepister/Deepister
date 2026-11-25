@@ -1,15 +1,12 @@
 # Hey, I’m Deepister 👋
 
-**I build apps, games, and agents with AI, and share how I made them.**
-
-If you found me through a video, this is where you can dig into the code behind the build. I’m interested in the whole process, from the first prototype to what happens when you actually try to use it.
+I’m a software engineer and creator working across tech and social media marketing. On **Deepister.tech**, I make tech approachable through hands-on projects and videos about the tools I’m trying. On **Hi.Pryor**, I explore **Social Media Marketing in the Age of AI**, from content strategy to how campaigns get made.
 
 ## Explore my projects
 
-**[Deepistertalks Projects](https://github.com/Deepister/Deepistertalks-Projects)**  
-A collection of coding projects I’ve shared on Instagram. Start here if you’re looking for the code from an earlier video.
+| Collection | What you’ll find |
+| --- | --- |
+| [**Deepister.tech Projects**](https://github.com/Deepister/deepister-tech-projects) | Code from my videos, plus a home for apps, games, agents, and AI experiments. |
+| [**Hi.Pryor Projects**](https://github.com/Deepister/hi-pryor-projects) | A home for social content experiments, campaign breakdowns, and AI workflows. |
 
-## Find me on Instagram
-
-- **[@deepister.tech](https://www.instagram.com/deepister.tech/)** — tech, AI tools, and behind the scenes of my builds.
-- **[@hi.pryor](https://www.instagram.com/hi.pryor/)** — creative marketing, content, and campaign ideas.
+**Instagram** · [@deepister.tech](https://www.instagram.com/deepister.tech/) · [@hi.pryor](https://www.instagram.com/hi.pryor/)
