@@ -1,6 +1,6 @@
 # Hey, I’m Deepister 👋
 
-I’m a software engineer and creator. I share what I’m playing, building, and learning on **Deepister.tech**. On **Hi.Pryor**, I show how I approach social media marketing and AI content creation, and share my take on what’s changing in the industry.
+Software engineer turn Tech Marketing. I share what I’m playing, building, and learning on **Deepister.tech**. On **Hi.Pryor**, I show how I approach social media marketing and AI content creation, and share my take on what’s changing in the industry.
 
 ## Explore my projects
 
