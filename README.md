@@ -1,12 +1,12 @@
 # Hey, I’m Deepister 👋
 
-I’m a software engineer and creator working across tech and social media marketing. On **Deepister.tech**, I make tech approachable through hands-on projects and videos about the tools I’m trying. On **Hi.Pryor**, I explore **Social Media Marketing in the Age of AI**, from content strategy to how campaigns get made.
+I’m a software engineer and creator. I share what I’m playing, building, and learning on **Deepister.tech**. On **Hi.Pryor**, I show how I approach social media marketing and AI content creation, and share my take on what’s changing in the industry.
 
 ## Explore my projects
 
 | Collection | What you’ll find |
 | --- | --- |
-| [**Deepister.tech Projects**](https://github.com/Deepister/deepister-tech-projects) | Code from my videos, plus a home for apps, games, agents, and AI experiments. |
-| [**Hi.Pryor Projects**](https://github.com/Deepister/hi-pryor-projects) | A home for social content experiments, campaign breakdowns, and AI workflows. |
+| [**Deepister.tech Projects**](https://github.com/Deepister/deepister-tech-projects) | **Tech, gaming, and coding.** Games, apps, coding projects, and experiments with new tech. |
+| [**Hi.Pryor Projects**](https://github.com/Deepister/hi-pryor-projects) | **Social Media Marketing in the Age of AI.** Content strategy, campaign breakdowns, AI-assisted creative work, and my takes on what’s changing in social. |
 
 **Instagram** · [@deepister.tech](https://www.instagram.com/deepister.tech/) · [@hi.pryor](https://www.instagram.com/hi.pryor/)
